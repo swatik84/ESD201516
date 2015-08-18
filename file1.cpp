@@ -1,6 +1,11 @@
 #include<iostream>
 int main(){
-cout<<"hi";
+a=c*d;
+cout<<a;
 cout<<"hello world";
+for(i=o;i<10;i++)
+{
+  cout<<i;
+}
 return 0;
 }
